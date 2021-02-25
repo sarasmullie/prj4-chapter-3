@@ -1,0 +1,16 @@
+.white {
+    color: white;
+}
+
+#blue-courier {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.my-container {
+    border-color: red;
+    background-color: salmon;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
