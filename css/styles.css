@@ -43,6 +43,7 @@ h3 {
 .my-container {
     border-color: darkslategray;
     border-style: solid;
+    border-width: 3px;
     background-color: lightblue;
     text-align: center;
     margin: 20px;
