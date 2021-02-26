@@ -1,16 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:0;
+    font-size: 100%;
+}
+
 .white {
     color: white;
 }
 
-#blue-courier {
-    color: blue;
-    font-family: 'Courier New', Courier, monospace;
+header {
+    color: darkslategrey;
+    font-family:'Abril Fatface', cursive;
+    font-size: 70px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
     text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    font-family:'Abril Fatface', cursive;
+    font-size: 40px; 
+    padding-top: 20px;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+#background {
+    text-align: center;
+    background-image: url(../images/header.jpg);
+    background-position: center;
+    padding: 30px;
 }
 
 .my-container {
-    border-color: red;
-    background-color: salmon;
+    border-color: darkslategray;
+    border-style: solid;
+    background-color: lightblue;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 5px;
 }
